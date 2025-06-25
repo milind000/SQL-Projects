@@ -30,22 +30,7 @@ order_items: order_item_id, order_id, product_id, quantity
 2. Top 5 Customers by Revenue  
 3. Best-Selling Products by Quantity  
 4. First-Time vs Repeat Buyers  
-5. Revenue by Country or Category  
-
- 📁 Project Structure
-
-ecommerce-sql-analysis/
-├── README.md
-├── ecommerce\_er\_diagram.png
-├── data/
-│   ├── customers.csv
-│   ├── products.csv
-│   ├── orders.csv
-│   └── order\_items.csv
-├── sql\_queries/
-│   └── \*.sql
-└── dashboard/
-└── ecommerce\_dashboard.pbix (optional)
+5. Revenue by Country or Category 
 
  📈 Sample Insights
 
