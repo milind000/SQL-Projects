@@ -54,6 +54,6 @@ order_items: order_item_id, order_id, product_id, quantity
 
  🖼 ER Diagram
 
-![ER Diagram]()
+![ER Diagram](https://github.com/milind000/SQL-Projects/blob/main/ERD.drawio.png)
 
 
