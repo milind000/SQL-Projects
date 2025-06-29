@@ -2,8 +2,7 @@
 
 📊 E‑Commerce Sales & Customer Analytics (SQL)
 
-Objective: 
-Use SQL to analyze e‑commerce transaction data, uncovering insights into sales trends, customer behavior, and product performance.
+Used SQL to analyze e‑commerce transaction data, uncovering insights into sales trends, customer behavior, and product performance.
 
 
 
